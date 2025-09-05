@@ -56,11 +56,3 @@ This system allows creating, managing, and analyzing bank accounts with support 
 - Modular, clean, and extendable design
 
 ---
-
-## Potential Improvements
-
-- Add **password/login system**
-- GUI interface with **Qt or SFML**
-- Support for **multiple currencies**
-- Advanced **analytics and reports**
-- Networked version with **client-server architecture**
