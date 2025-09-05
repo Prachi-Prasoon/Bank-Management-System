@@ -44,6 +44,8 @@ This system allows creating, managing, and analyzing bank accounts with support 
 
 ## Project Structure
 
+<img width="571" height="300" alt="image" src="https://github.com/user-attachments/assets/36ffb7ae-8718-4bb5-9c4c-88b1b67366d5" />
+
 BankManagementSystem/
 │
 ├── BankAccount.h # BankAccount class definition
