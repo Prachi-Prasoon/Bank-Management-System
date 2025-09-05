@@ -44,16 +44,7 @@ This system allows creating, managing, and analyzing bank accounts with support 
 
 ## Project Structure
 
-<img width="571" height="300" alt="image" src="https://github.com/user-attachments/assets/36ffb7ae-8718-4bb5-9c4c-88b1b67366d5" />
-
-BankManagementSystem/
-│
-├── BankAccount.h # BankAccount class definition
-├── BankAccount.cpp # BankAccount class implementation
-├── BankSystem.h # BankSystem class definition
-├── BankSystem.cpp # BankSystem class implementation
-├── main.cpp # Main entry point
-└── accounts.txt # Persistent storage (created automatically)
+<img width="579" height="293" alt="image" src="https://github.com/user-attachments/assets/12f9051f-1a36-4c02-88dd-26506e13622f" />
 
 
 ## Key Highlights
